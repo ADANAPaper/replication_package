@@ -1,4 +1,4 @@
-Simina Configuration
+simian-configuration
 -------------------------------
 threshold="3"
 ignoreCharacterCase="true"
