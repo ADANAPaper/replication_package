@@ -1,3 +1,6 @@
+## verification-questions
+	Code snippets and their verification questions used in the 3rd study.
+
 ## rq3.csv
 	Regarding the 3rd study (RQ3), this file presents the collected evaluations as follows:
 	- participant_id: A unique id assigned to each participant
